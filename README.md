@@ -17,14 +17,15 @@
   
 <a href="https://linkedin.com/in/divyanshuaaliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshuaaliwal" height="30" width="40" /></a>
   
-<a href="https://fb.com/divyanshualiwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divyanshuaaliwal" height="30" width="40" /></a> <br/>
+<a href="https://fb.com/divyanshualiwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divyanshualiwal" height="30" width="40" /></a>
 
 <a href="https://instagram.com/divyanshu_aaliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyanshu_aaliwal" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/divyanshuaaliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshuaaliwal" height="30" width="40" /></a>
 
 <a href="https://auth.geeksforgeeks.org/user/divyanshu_aaliwal" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyanshu_aaliwal" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"     
+   alt="divyanshu_aaliwal" height="30" width="40" />
 </a>
 </p>
 
