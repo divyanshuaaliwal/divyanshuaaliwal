@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/divyanshualiwal" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshualiwal?logo=twitter&style=for-the-badge" alt="divyanshualiwal" /></a> </p>
 
-- 📫 How to reach me **divyanshuaaliwal@Gmail.com**
+- 📫 How to reach me **divyanshuaaliwal@gmail.com**
 
 - ⚡Fact **I am Genius**
 
