@@ -1,4 +1,4 @@
-![logo](https://github.com/divyanshuaaliwal/divyanshuaaliwal/blob/main/Banner.jpg?raw=true)
+![logo](https://github.com/divyanshuaaliwal/divyanshuaaliwal/blob/main/banner.jpg?raw=true)
 <h1 align="center"> Hey Guys, I'm Divyanshu </h1>
 <h3 align="center"> A Frontend developer </h3>
 
