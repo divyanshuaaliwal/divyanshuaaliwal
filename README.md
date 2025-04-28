@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshuaaliwal" alt="divyanshuaaliwal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/divyanshualiwal" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshualiwal?logo=twitter&style=for-the-badge" alt="divyanshualiwal" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/divyanshualiwal" target="blank">
+    <img src="https://img.shields.io/twitter/follow/divyanshualiwal?logo=twitter&style=for-the-badge" alt="divyanshualiwal" />
+  </a>
+</p>
 
 - 📫 How to reach me **divyanshuaaliwal@gmail.com**
 
