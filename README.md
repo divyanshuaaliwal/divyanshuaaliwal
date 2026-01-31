@@ -1,48 +1,62 @@
-## Divyanshu Aaliwal
-**Software Development Engineer**
+<p align="center">
+  <img src="https://github.com/divyanshuaaliwal/divyanshuaaliwal/blob/main/banner.jpg?raw=true" alt="Banner" />
+</p>
+
+<h1 align="center">Divyanshu Aaliwal</h1>
+<h3 align="center">Software Development Engineer</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/divyanshuaaliwal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/divyanshualiwal">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:divyanshuaaliwal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### About Me
-Software Development Engineer with hands-on experience in building clean, scalable web applications and a strong foundation in data structures and problem solving. Focused on writing maintainable code and delivering user-centric solutions.
+### 👨‍💻 About Me
+
+- Frontend Developer focused on **React**, **Tailwind CSS**, and modern UI development  
+- Strong foundation in **JavaScript**, **HTML**, and **CSS**
+- Interested in building scalable, clean, and user-centric interfaces  
+
+📫 **Contact:** `divyanshuaaliwal@gmail.com`
 
 ---
 
-### Skills
+### 🔗 Profiles
 
-**Languages**
-- Java
-- JavaScript
-- C
-- C++
-
-**Web & Frontend**
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-
-**Tools & Platforms**
-- Git
-- GitHub
-- VS Code
+<p align="left">
+  <a href="https://linkedin.com/in/divyanshuaaliwal">LinkedIn</a> •
+  <a href="https://leetcode.com/divyanshuaaliwal">LeetCode</a> •
+  <a href="https://auth.geeksforgeeks.org/user/divyanshu_aaliwal">GeeksforGeeks</a>
+</p>
 
 ---
 
-### Coding & Professional Profiles
-- **LinkedIn:** https://linkedin.com/in/divyanshuaaliwal  
-- **LeetCode:** https://leetcode.com/divyanshuaaliwal  
-- **GeeksforGeeks:** https://auth.geeksforgeeks.org/user/divyanshu_aaliwal  
-- **Twitter:** https://twitter.com/divyanshualiwal  
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,tailwind,git,github,vscode" />
+</p>
 
 ---
 
-### What I Work On
-- Building responsive and accessible web interfaces  
-- Strengthening DSA and problem-solving skills  
-- Writing clean, readable, and scalable code  
+### 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshuaaliwal&show_icons=true&hide_border=true" />
+</p>
 
-### Contact
-📧 **Email:** divyanshuaaliwal@gmail.com
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuaaliwal&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuaaliwal&layout=compact&hide_border=true" />
+</p>
