@@ -61,3 +61,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshuaaliwal&show_icons=true&hide_border=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divyanshuaaliwal&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuaaliwal&layout=compact&hide_border=true" />
+</p>
+
+
