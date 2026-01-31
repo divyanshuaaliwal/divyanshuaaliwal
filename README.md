@@ -32,17 +32,11 @@
 ### 🔗 Profiles
 
 <p align="left">
-  <a href="https://linkedin.com/in/divyanshuaaliwal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/divyanshuaaliwal">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/divyanshu_aaliwal">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2ECC71?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/divyanshualiwal">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.naukri.com/code360/profile/dev_aaliwal">
     <img src="https://img.shields.io/badge/Naukri-FF6600?style=for-the-badge&logo=naukri&logoColor=white" />
@@ -60,17 +54,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshuaaliwal&show_icons=true&hide_border=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyanshuaaliwal&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuaaliwal&layout=compact&hide_border=true" />
-</p>
-
-
