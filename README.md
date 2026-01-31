@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Divyanshu Aaliwal</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/divyanshuaaliwal">
@@ -50,13 +50,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshuaaliwal&show_icons=true&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=divyanshuaaliwal&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuaaliwal&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuaaliwal&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuaaliwal&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuaaliwal&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
