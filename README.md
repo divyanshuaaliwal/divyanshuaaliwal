@@ -32,10 +32,13 @@
 ### 🔗 Profiles
 
 <p align="left">
-  <a href="https://linkedin.com/in/divyanshuaaliwal">LinkedIn</a>  • 
-  <a href="https://leetcode.com/divyanshuaaliwal">LeetCode</a>  • 
-  <a href="https://auth.geeksforgeeks.org/user/divyanshu_aaliwal">GeeksforGeeks</a>
+  <a href="https://linkedin.com/in/divyanshuaaliwal">LinkedIn</a> •
+  <a href="https://auth.geeksforgeeks.org/user/divyanshu_aaliwal">GeeksforGeeks</a> •
+  <a href="https://leetcode.com/divyanshuaaliwal">LeetCode</a> •
+  <a href="https://twitter.com/divyanshualiwal">X</a> •
+  <a href="https://www.naukri.com/code360/profile/dev_aaliwal">Naukri Code360</a>
 </p>
+
 
 ---
 
@@ -46,18 +49,4 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshuaaliwal&show_icons=true&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyanshuaaliwal&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuaaliwal&layout=compact&hide_border=true&cache_seconds=86400" />
-</p>
 
