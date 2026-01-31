@@ -32,12 +32,23 @@
 ### 🔗 Profiles
 
 <p align="left">
-  <a href="https://linkedin.com/in/divyanshuaaliwal">LinkedIn</a> •
-  <a href="https://auth.geeksforgeeks.org/user/divyanshu_aaliwal">GeeksforGeeks</a> •
-  <a href="https://leetcode.com/divyanshuaaliwal">LeetCode</a> •
-  <a href="https://twitter.com/divyanshualiwal">X</a> •
-  <a href="https://www.naukri.com/code360/profile/dev_aaliwal">Naukri Code360</a>
+  <a href="https://linkedin.com/in/divyanshuaaliwal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/divyanshuaaliwal">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/divyanshu_aaliwal">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2ECC71?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/divyanshualiwal">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/dev_aaliwal">
+    <img src="https://img.shields.io/badge/Naukri-FF6600?style=for-the-badge&logo=naukri&logoColor=white" />
+  </a>
 </p>
+
 
 
 ---
