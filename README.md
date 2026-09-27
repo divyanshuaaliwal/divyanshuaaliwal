@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Divyanshu Aaliwal</h1>
-<h3 align="center">Software Development Engineer</h3>
+<h3 align="center">Azure Data Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/divyanshuaaliwal">
@@ -18,8 +18,6 @@
 </p>
 
 ---
-
-**Azure Data Engineer | SQL | Python | PySpark | ADF | Databricks | Microsoft Fabric | DSA | Problem Solving**
 
 ### 👨‍💻 About Me
 
@@ -51,9 +49,19 @@
 ---
 
 ### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,azure,git,github,vscode" />
+</p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,tailwind,git,github,vscode" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-EF3A2D?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ---
