@@ -19,11 +19,14 @@
 
 ---
 
+**Azure Data Engineer | SQL | Python | PySpark | ADF | Databricks | Microsoft Fabric | DSA | Problem Solving**
+
 ### 👨‍💻 About Me
 
-- Frontend Developer focused on **React**, **Tailwind CSS**, and modern UI development  
-- Strong foundation in **JavaScript**, **HTML**, and **CSS**
-- Interested in building scalable, clean, and user-centric interfaces  
+- Data Engineer focused on **SQL, Python, PySpark, Azure Data Factory, Databricks, and Microsoft Fabric**
+- Strong foundation in **Data Engineering, ETL/ELT pipelines, data processing, and problem solving**
+- Interested in building **scalable and reliable data solutions**
+- Strong interest in **DSA and software development**
 
 📫 **Contact:** `divyanshuaaliwal@gmail.com`
 
